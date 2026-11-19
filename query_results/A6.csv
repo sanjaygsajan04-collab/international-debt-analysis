@@ -1,0 +1,121 @@
+country_name,total_debt,debt_category
+China,2420000000000.0000,High Debt
+India,716000000000.0000,High Debt
+Brazil,605000000000.0000,High Debt
+Mexico,591000000000.0000,High Debt
+Turkiye,515000000000.0000,High Debt
+Indonesia,421000000000.0000,High Debt
+Argentina,242000000000.0000,High Debt
+Colombia,202000000000.0000,High Debt
+Ukraine,193000000000.0000,High Debt
+Thailand,192000000000.0000,High Debt
+South Africa,176000000000.0000,High Debt
+Kazakhstan,168000000000.0000,High Debt
+"Egypt, Arab Rep.",156000000000.0000,High Debt
+Philippines,137000000000.0000,High Debt
+Viet Nam,133000000000.0000,High Debt
+Pakistan,130000000000.0000,High Debt
+Nigeria,109000000000.0000,High Debt
+Bangladesh,104000000000.0000,High Debt
+Peru,93268743432.0000,Medium Debt
+Uzbekistan,70256401084.0000,Medium Debt
+Mozambique,69765373430.0000,Medium Debt
+Morocco,67993946129.0000,Medium Debt
+Lebanon,67389006707.0000,Medium Debt
+Ecuador,60364730466.0000,Medium Debt
+Angola,58733063314.0000,Medium Debt
+Sri Lanka,56827528394.0000,Medium Debt
+Dominican Republic,53293949023.0000,Medium Debt
+Serbia,51983619467.0000,Medium Debt
+Senegal,47146494530.0000,Medium Debt
+Jordan,46966040105.0000,Medium Debt
+Kenya,42886127218.0000,Medium Debt
+Cote d'Ivoire,40560965965.0000,Medium Debt
+Tunisia,40459855368.0000,Medium Debt
+Mongolia,38016581521.0000,Medium Debt
+Ghana,37414621430.0000,Medium Debt
+Ethiopia,36548259483.0000,Medium Debt
+Tanzania,36343119612.0000,Medium Debt
+Belarus,34217084775.0000,Medium Debt
+Paraguay,29963457224.0000,Medium Debt
+Zambia,28117735301.0000,Medium Debt
+Guatemala,27058876459.0000,Medium Debt
+Georgia,25163122116.0000,Medium Debt
+El Salvador,24961880871.0000,Medium Debt
+Sudan,22020660463.0000,Medium Debt
+Cambodia,20977325204.0000,Medium Debt
+Uganda,20534369198.0000,Medium Debt
+Mauritius,20364236676.0000,Medium Debt
+Lao PDR,17836681020.0000,Medium Debt
+Iraq,17517006333.0000,Medium Debt
+Armenia,16396165489.0000,Medium Debt
+Cameroon,15770789430.0000,Medium Debt
+Bolivia,15717587539.0000,Medium Debt
+Nicaragua,15490530048.0000,Medium Debt
+Jamaica,14836981078.0000,Medium Debt
+Zimbabwe,14403740330.0000,Medium Debt
+Honduras,14299817843.0000,Medium Debt
+Benin,14162933687.0000,Medium Debt
+Bosnia and Herzegovina,13888491676.0000,Medium Debt
+Rwanda,13050400791.0000,Medium Debt
+Papua New Guinea,12854160688.0000,Medium Debt
+North Macedonia,12837215392.0000,Medium Debt
+"Congo, Dem. Rep.",12484889882.0000,Medium Debt
+Azerbaijan,12199421517.0000,Medium Debt
+Kyrgyz Republic,11689916630.0000,Medium Debt
+Myanmar,11174807782.0000,Medium Debt
+Burkina Faso,10845161721.0000,Medium Debt
+Albania,10712630801.0000,Medium Debt
+Moldova,10491120732.0000,Medium Debt
+Nepal,10152157326.0000,Medium Debt
+"Iran, Islamic Rep.",9654298896.0000,Low Debt
+Montenegro,8741348456.0000,Low Debt
+"Yemen, Rep.",7086874767.0000,Low Debt
+Tajikistan,6977429758.0000,Low Debt
+Algeria,6898271361.0000,Low Debt
+Gabon,6816627454.0000,Low Debt
+"Congo, Rep.",6728317971.0000,Low Debt
+Madagascar,6653640488.0000,Low Debt
+Mali,6439962214.0000,Low Debt
+Guinea,5388299536.0000,Low Debt
+Niger,5308857137.0000,Low Debt
+Syrian Arab Republic,4756737936.0000,Low Debt
+Maldives,4692462748.0000,Low Debt
+Mauritania,4459916732.0000,Low Debt
+Kosovo,4395488576.0000,Low Debt
+Suriname,4372357173.0000,Low Debt
+Togo,4294139883.0000,Low Debt
+Fiji,3868919895.0000,Low Debt
+Malawi,3743648286.0000,Low Debt
+Guyana,3681569057.0000,Low Debt
+Djibouti,3423638382.0000,Low Debt
+Bhutan,3400087106.0000,Low Debt
+Chad,3348359914.0000,Low Debt
+Afghanistan,3344095867.0000,Low Debt
+Turkmenistan,3320400762.0000,Low Debt
+Cabo Verde,2359581722.0000,Low Debt
+Sierra Leone,2329744049.0000,Low Debt
+Botswana,2317990593.0000,Low Debt
+Liberia,2234742479.0000,Low Debt
+"Somalia, Fed. Rep.",1799443761.0000,Low Debt
+Lesotho,1773147343.0000,Low Debt
+"Gambia, The",1642671191.0000,Low Debt
+Belize,1558943631.0000,Low Debt
+Guinea-Bissau,1433190117.0000,Low Debt
+Eswatini,1238600512.0000,Low Debt
+Equatorial Guinea,1219531304.0000,Low Debt
+St. Lucia,1193706002.0000,Low Debt
+Central African Republic,1045905200.0000,Low Debt
+Burundi,1023879227.0000,Low Debt
+Haiti,944741012.3000,Low Debt
+Grenada,863278627.6000,Low Debt
+St. Vincent and the Grenadines,806447451.4000,Low Debt
+Eritrea,667267678.5000,Low Debt
+Solomon Islands,596145038.0000,Low Debt
+Dominica,569530343.0000,Low Debt
+Vanuatu,519876544.1000,Low Debt
+Samoa,394938377.5000,Low Debt
+Comoros,385570286.6000,Low Debt
+Sao Tome and Principe,326406625.8000,Low Debt
+Timor-Leste,296673869.1000,Low Debt
+Tonga,173176112.1000,Low Debt

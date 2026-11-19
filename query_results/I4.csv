@@ -1,0 +1,79 @@
+indicator_name,total_debt
+"External debt stocks, long-term (DOD, current US$)",6177947154930.6000
+"External debt stocks, variable rate (DOD, current US$)",3779022223524.8000
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",3560992114836.6000
+"External debt stocks, long-term public sector (DOD, current US$)",3533991155092.3000
+"External debt stocks, public sector (PPG) (DOD, current US$)",3532667479092.3000
+Present value of external debt (current US$),3175648284584.2000
+"External debt stocks, general government sector (PPG) (DOD, current US$)",2662352096042.5000
+"External debt stocks, long-term private sector (DOD, current US$)",2638373110617.0000
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",2612903400872.2000
+"External debt stocks, short-term (DOD, current US$)",2398913561906.6000
+"PPG, private creditors (DOD, current US$)",2095424153730.3000
+"PNG, commercial banks and other creditors (DOD, current US$)",2075555588192.2000
+"PS, private creditors (DOD, current US$)",2069002153730.3000
+"PPG, bonds (DOD, current US$)",1637053210766.4000
+"PS, bonds (DOD, current US$)",1612631210766.4000
+"PPG, official creditors (DOD, current US$)",1465053143852.2000
+"PS, official creditors (DOD, current US$)",1464141469553.3000
+"GG, private creditors (DOD, current US$)",1354431090766.6000
+"GG, official creditors (DOD, current US$)",1307875111657.3000
+"GG, bonds (DOD, current US$)",1252704292895.4000
+"External debt stocks, variable rate public and publicly guaranteed debt (PPG) (DOD, current US$)",1167786409674.1000
+"PPG, multilateral (DOD, current US$)",988592325002.4000
+"PS, multilateral (DOD, current US$)",987836463974.4000
+"GG, multilateral (DOD, current US$)",929583631272.6000
+"External debt stocks, other public sector (PPG) (DOD, current US$)",822262206094.8000
+"OPS, private creditors (DOD, current US$)",707068377866.2000
+"PNG, bonds (DOD, current US$)",537677175495.5000
+"PPG, bilateral (DOD, current US$)",476088295572.2000
+"PS, bilateral (DOD, current US$)",475932482301.9000
+"External debt stocks, concessional (DOD, current US$)",409301925391.8000
+"GG, bilateral (DOD, current US$)",378435210122.0000
+"Use of IMF credit and SDR allocations (DOD, current US$)",371907066434.7000
+"PPG, commercial banks (DOD, current US$)",368446315605.0000
+"PS, commercial banks (DOD, current US$)",365843569136.0000
+"OPS, bonds (DOD, current US$)",357666235042.0000
+"OPS, commercial banks (DOD, current US$)",268287461503.1000
+"PPG, multilateral concessional (DOD, current US$)",257103075610.7000
+"PS, multilateral concessional (DOD, current US$)",257039023856.6000
+"PPG, IBRD (DOD, current US$)",253755222000.0000
+"GG, multilateral concessional (DOD, current US$)",252718726566.8000
+"IMF SDR allocations (DOD, current US$)",229165533910.7000
+"PPG, IDA (DOD, current US$)",209523591000.0000
+"PPG, bilateral concessional (DOD, current US$)",152198849783.3000
+"PS, bilateral concessional (DOD, current US$)",152198367166.0000
+"Use of IMF credit (DOD, current US$)",142741532523.9000
+"GG, bilateral concessional (DOD, current US$)",138015911897.0000
+"OPS, official creditors (DOD, current US$)",115207465321.1000
+Total change in external debt stocks (current US$),101485735618.9000
+"PPG, other private creditors (DOD, current US$)",91810089190.2000
+"PS, other private creditors (DOD, current US$)",91809184308.2000
+"GG, commercial banks (DOD, current US$)",89841375122.0000
+"OPS, other private creditors (DOD, current US$)",80976464021.2000
+"OPS, bilateral (DOD, current US$)",67161561601.7000
+"External debt stocks, central bank (PPG) (DOD, current US$)",49732464241.2000
+"OPS, multilateral (DOD, current US$)",48045903719.4000
+"CB, official creditors (DOD, current US$)",40542639562.3000
+"CB, bilateral (DOD, current US$)",30335710577.4000
+"External debt stocks, private guaranteed by public sector (PPG) (DOD, current US$)",27798815006.2000
+"PRVG, private creditors (DOD, current US$)",26887140707.1000
+"PRVG, bonds (DOD, current US$)",24135561913.0000
+"GG, other private creditors (DOD, current US$)",10813127286.4000
+"CB, multilateral (DOD, current US$)",10206928985.4000
+"CB, private creditors (DOD, current US$)",9189824678.9000
+"OPS, bilateral concessional (DOD, current US$)",8885085139.1000
+"CB, commercial banks (DOD, current US$)",6796039678.9000
+"CB, bilateral concessional (DOD, current US$)",5297370130.3000
+"CB, multilateral concessional (DOD, current US$)",3208200624.0000
+"PRVG, commercial banks (DOD, current US$)",2750673912.2000
+"CB, bonds (DOD, current US$)",2374192000.0000
+"OPS, multilateral concessional (DOD, current US$)",1112096665.0000
+"PRVG, official creditors (DOD, current US$)",911674299.1000
+"PRVG, multilateral (DOD, current US$)",755861028.8000
+"PRVG, bilateral (DOD, current US$)",155813270.3000
+"PRVG, multilateral concessional (DOD, current US$)",64051754.6000
+"CB, other private creditors (DOD, current US$)",19593000.0000
+"PRVG, other private creditors (DOD, current US$)",904881.9000
+"PRVG, bilateral concessional (DOD, current US$)",482617.3000
+"Residual, debt stock-flow reconciliation (current US$)",-37454108064.1000
