@@ -1,0 +1,135 @@
+country_code,country_name,region,income_group,is_aggregate
+AFG,Afghanistan,Middle East & North Africa,Low income,0
+AGO,Angola,Sub-Saharan Africa,Lower middle income,0
+ALB,Albania,Europe & Central Asia,Upper middle income,0
+ARG,Argentina,Latin America & Caribbean,Upper middle income,0
+ARM,Armenia,Europe & Central Asia,Upper middle income,0
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,0
+BDI,Burundi,Sub-Saharan Africa,Low income,0
+BEN,Benin,Sub-Saharan Africa,Lower middle income,0
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,0
+BGD,Bangladesh,South Asia,Lower middle income,0
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,0
+BLR,Belarus,Europe & Central Asia,Upper middle income,0
+BLZ,Belize,Latin America & Caribbean,Upper middle income,0
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,0
+BRA,Brazil,Latin America & Caribbean,Upper middle income,0
+BTN,Bhutan,South Asia,Lower middle income,0
+BWA,Botswana,Sub-Saharan Africa,Upper middle income,0
+CAF,Central African Republic,Sub-Saharan Africa,Low income,0
+CHN,China,East Asia & Pacific,Upper middle income,0
+CIV,Cote d'Ivoire,Sub-Saharan Africa,Lower middle income,0
+CMR,Cameroon,Sub-Saharan Africa,Lower middle income,0
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,0
+COG,"Congo, Rep.",Sub-Saharan Africa,Lower middle income,0
+COL,Colombia,Latin America & Caribbean,Upper middle income,0
+COM,Comoros,Sub-Saharan Africa,Lower middle income,0
+CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,0
+DJI,Djibouti,Middle East & North Africa,Lower middle income,0
+DMA,Dominica,Latin America & Caribbean,Upper middle income,0
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,0
+DZA,Algeria,Middle East & North Africa,Upper middle income,0
+EAP,East Asia & Pacific (excluding high income),Aggregate group,Not classified,1
+ECA,Europe & Central Asia (excluding high income),Aggregate group,Not classified,1
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,0
+EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,0
+ERI,Eritrea,Sub-Saharan Africa,Low income,0
+ETH,Ethiopia,Sub-Saharan Africa,Not classified,0
+FJI,Fiji,East Asia & Pacific,Upper middle income,0
+GAB,Gabon,Sub-Saharan Africa,Upper middle income,0
+GEO,Georgia,Europe & Central Asia,Upper middle income,0
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,0
+GIN,Guinea,Sub-Saharan Africa,Lower middle income,0
+GMB,"Gambia, The",Sub-Saharan Africa,Low income,0
+GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,0
+GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,0
+GRD,Grenada,Latin America & Caribbean,Upper middle income,0
+GTM,Guatemala,Latin America & Caribbean,Upper middle income,0
+GUY,Guyana,Latin America & Caribbean,High income,0
+HND,Honduras,Latin America & Caribbean,Lower middle income,0
+HTI,Haiti,Latin America & Caribbean,Lower middle income,0
+IDA,IDA total,Aggregate group,Not classified,1
+IDN,Indonesia,East Asia & Pacific,Upper middle income,0
+IDX,IDA only,Aggregate group,Not classified,1
+IND,India,South Asia,Lower middle income,0
+IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,0
+IRQ,Iraq,Middle East & North Africa,Upper middle income,0
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,0
+JOR,Jordan,Middle East & North Africa,Lower middle income,0
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,0
+KEN,Kenya,Sub-Saharan Africa,Lower middle income,0
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,0
+KHM,Cambodia,East Asia & Pacific,Lower middle income,0
+LAC,Latin America & Caribbean (excluding high income),Aggregate group,Not classified,1
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,0
+LBN,Lebanon,Middle East & North Africa,Lower middle income,0
+LBR,Liberia,Sub-Saharan Africa,Low income,0
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income,0
+LDC,Least developed countries: UN classification,Aggregate group,Not classified,1
+LIC,Low income,Aggregate group,Not classified,1
+LKA,Sri Lanka,South Asia,Lower middle income,0
+LMC,Lower middle income,Aggregate group,Not classified,1
+LMY,Low & middle income,Aggregate group,Not classified,1
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income,0
+MAR,Morocco,Middle East & North Africa,Lower middle income,0
+MDA,Moldova,Europe & Central Asia,Upper middle income,0
+MDG,Madagascar,Sub-Saharan Africa,Low income,0
+MDV,Maldives,South Asia,Upper middle income,0
+MEX,Mexico,Latin America & Caribbean,Upper middle income,0
+MIC,Middle income,Aggregate group,Not classified,1
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,0
+MLI,Mali,Sub-Saharan Africa,Low income,0
+MMR,Myanmar,East Asia & Pacific,Lower middle income,0
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",Aggregate group,Not classified,1
+MNE,Montenegro,Europe & Central Asia,Upper middle income,0
+MNG,Mongolia,East Asia & Pacific,Upper middle income,0
+MOZ,Mozambique,Sub-Saharan Africa,Low income,0
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,0
+MUS,Mauritius,Sub-Saharan Africa,Upper middle income,0
+MWI,Malawi,Sub-Saharan Africa,Low income,0
+NER,Niger,Sub-Saharan Africa,Low income,0
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,0
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income,0
+NPL,Nepal,South Asia,Lower middle income,0
+PAK,Pakistan,Middle East & North Africa,Lower middle income,0
+PER,Peru,Latin America & Caribbean,Upper middle income,0
+PHL,Philippines,East Asia & Pacific,Lower middle income,0
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,0
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,0
+RWA,Rwanda,Sub-Saharan Africa,Low income,0
+SAS,South Asia,Aggregate group,Not classified,1
+SDN,Sudan,Sub-Saharan Africa,Low income,0
+SEN,Senegal,Sub-Saharan Africa,Lower middle income,0
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,0
+SLE,Sierra Leone,Sub-Saharan Africa,Low income,0
+SLV,El Salvador,Latin America & Caribbean,Upper middle income,0
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,0
+SRB,Serbia,Europe & Central Asia,Upper middle income,0
+SSA,Sub-Saharan Africa (excluding high income),Aggregate group,Not classified,1
+STP,Sao Tome and Principe,Sub-Saharan Africa,Lower middle income,0
+SUR,Suriname,Latin America & Caribbean,Upper middle income,0
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,0
+SYR,Syrian Arab Republic,Middle East & North Africa,Low income,0
+TCD,Chad,Sub-Saharan Africa,Low income,0
+TGO,Togo,Sub-Saharan Africa,Low income,0
+THA,Thailand,East Asia & Pacific,Upper middle income,0
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,0
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,0
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,0
+TON,Tonga,East Asia & Pacific,Upper middle income,0
+TUN,Tunisia,Middle East & North Africa,Lower middle income,0
+TUR,Turkiye,Europe & Central Asia,Upper middle income,0
+TZA,Tanzania,Sub-Saharan Africa,Lower middle income,0
+UGA,Uganda,Sub-Saharan Africa,Low income,0
+UKR,Ukraine,Europe & Central Asia,Upper middle income,0
+UMC,Upper middle income,Aggregate group,Not classified,1
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,0
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,0
+VNM,Viet Nam,East Asia & Pacific,Lower middle income,0
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,0
+WSM,Samoa,East Asia & Pacific,Upper middle income,0
+XKX,Kosovo,Europe & Central Asia,Upper middle income,0
+YEM,"Yemen, Rep.",Middle East & North Africa,Low income,0
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,0
+ZMB,Zambia,Sub-Saharan Africa,Lower middle income,0
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,0

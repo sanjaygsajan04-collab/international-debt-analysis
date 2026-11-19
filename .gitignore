@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
+debt_data_clean.csv
+powerbi_data/
